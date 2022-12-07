@@ -1,0 +1,49 @@
+.Shop { 
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial;
+      }
+  .Work { 
+    text-align: center;
+    font-family: Arial
+    margin-top: 30px;
+    font-family: Arial;
+  }
+  .Learn { 
+    text-align: center;
+    color:  #2772D4;
+    margin-top: 20px;
+    font-family: Arial;
+  }
+  .Learn:hover { 
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .HTML { 
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-bottom: 0;
+  }
+  .Beginner { 
+    font-family: Verdana;
+    margin-top: 0;
+    color: #787581;
+  }
+  .text { 
+    font-family: Verdana;
+    width: 280px;
+  }
+ .Get { 
+   font-family: Verdana;
+   color: white;
+   background-color: #296F2C;
+   border: none;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+   border-radius: 5px;
+ }
